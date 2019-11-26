@@ -137,6 +137,19 @@ body{
 				margin-right: 8px;	
 			}
 
+
+			.custom_modal{
+				background-color: transparent;
+			}
+			.custom_modal button{
+				color: white;
+			}
+
+			.modal-header {
+				/*this is a bootstrap's modal class of which i wish to change properties*/
+				border-bottom: none;
+			}
+
 	/*Banner section*/
 
 	/*Select model*/
